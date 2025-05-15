@@ -1,2 +1,2 @@
-# AI_Medical_Chat-bot
-AI_Automatic Vison an Voice Chatbot Application
+# medical-chatbot
+medical_Doctor_Precrption
